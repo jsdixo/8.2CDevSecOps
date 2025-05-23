@@ -17,3 +17,4 @@ mongod &
 git clone https://github.com/snyk-labs/nodejs-goof
 npm install
 npm start
+"Auto-trigger test - $(date /T) $(time /T)" 
